@@ -72,7 +72,7 @@ function Skill() {
          <ul className={styles.ul} >
            <div className={styles.bor1}>
            <li className={styles.li}>
-             <h6 className={styles.h6}>CODE CHEF : 1651 (MAX) </h6>
+             <h6 className={styles.h6}>CODE CHEF : 1713 (MAX) </h6>
            </li>
            </div>
            <div className={styles.bor1}>
